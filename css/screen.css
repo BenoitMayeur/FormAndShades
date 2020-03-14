@@ -1,3 +1,4 @@
+/* The box-shadow property is well-known, but is mostly used for external shades. Thanks to inset in the box-shadow property we can add internal shades */
 
 *{
     box-sizing: border-box;
