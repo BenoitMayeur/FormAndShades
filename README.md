@@ -1,4 +1,4 @@
-Hello,
+Hello!
 
 I wanted to work with CSS to mimick paper glued on each other.
 
